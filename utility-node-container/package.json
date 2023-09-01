@@ -1,0 +1,11 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "To run the npm utility container use the command  ```docker  docker-compose run --rm npm init ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
