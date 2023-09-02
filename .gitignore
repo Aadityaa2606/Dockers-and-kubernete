@@ -1,5 +1,3 @@
 **/node_modules/
 **/package-lock.json
-**/instance-launch-key.pem
-
-
+goals-node-app/instance-launch-key.pem
